@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <title>Visualization Final Project</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-request.v1.min.js"></script>
+    <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <script src="https://unpkg.com/d3-delaunay@4"></script>
+    <script src="https://unpkg.com/d3-geo-voronoi@1"></script>
+    <script src="./main.js" type="module"></script>
+    <link href='https://fonts.googleapis.com/css?family=Plus Jakarta Sans' rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <header>
+      <h3>Visualization Project</h3>
+      <div class="spinny-wrapper">
+        <h1>I am&nbsp;
+        <span class="spinny-words">
+          <span>Mexican</span>
+          <span>a Mother</span>
+          <span>Dominican</span>
+          <span>a Father</span>
+          <span>an Immigrant</span>
+          <span>a Daughter</span>
+        </span>
+        </h1>
+      </div>
+      <div class="flexbox-container">
+          <div class="flexbox-item flexbox-item-1"></div>
+          <div class="flexbox-item flexbox-item-2"></div>
+          <div class="flexbox-item flexbox-item-3"></div>
+          <div class="flexbox-item flexbox-item-4"></div>
+          <div class="flexbox-item flexbox-item-5"></div>
+          <div class="flexbox-item flexbox-item-6"></div>
+          <div class="flexbox-item flexbox-item-7"></div>
+    </div>
+      <h4>BY COUNTRY OF ORIGIN</h4>
+    </header>
+      <div class="section" id="one">
+        <iframe src="./fpeb.html" style="height:730px;width:1100px;border:none;" title="viz1"></iframe>
+      </div>
+      <br>
+      <div class="section" id="two">
+        <div class="text">
+          <h3>Deportation By Agency</h3>
+          <hr>
+          <h4>Fiscal Years 2011 - 2020 Aggregated</h4>
+          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+        <br>
+        <br>
+          The standard chunk of Lorem Ipsum used since the 1500s is reproduced below"
+          </div>
+          <div class="graph" id="d3-container-2"></div>
+    </div>
+      <div class="section" id="three">
+        <div class="graph" id="d3-container-3"></div>
+        <div class="text">
+          <h3>Deportations By Country Origin</h3>
+          <hr>
+          <h4>Fiscal Years 2011 - 2020 Aggregated</h4>
+          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+        <br>
+        <br>
+          The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        <br>
+      </div>
+      </div>
+  </body>
+  <div class="flexbox-container">
+    <div class="flexbox-item flexbox-item-1"></div>
+    <div class="flexbox-item flexbox-item-2"></div>
+    <div class="flexbox-item flexbox-item-3"></div>
+    <div class="flexbox-item flexbox-item-4"></div>
+    <div class="flexbox-item flexbox-item-5"></div>
+    <div class="flexbox-item flexbox-item-6"></div>
+    <div class="flexbox-item flexbox-item-7"></div>
+</div>
+</html>
