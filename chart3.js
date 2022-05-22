@@ -73,8 +73,8 @@ export function chart3() {
     
     d3.queue()
     .defer(d3.json, "https://raw.githubusercontent.com/d3/d3.github.com/master/world-110m.v1.json")
-    .defer(d3.json, "../../data/places.json")
-    .defer(d3.json, "../../data/links.json")
+    .defer(d3.json, "./data/places.json")
+    .defer(d3.json, "./data/links.json")
     .await(ready);
     
     function ready(error, world, places, links) {
