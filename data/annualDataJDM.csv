@@ -1,0 +1,156 @@
+Analysis,Year,Mean
+Acura NSX,1990,0
+Acura NSX,1991,0.32
+Acura NSX,1992,0.34
+Acura NSX,1993,0.38
+Acura NSX,1994,0.34
+Acura NSX,1995,0.36
+Acura NSX,1996,0.38
+Acura NSX,1997,0.4
+Acura NSX,1998,0.45
+Acura NSX,1999,0.505
+Acura NSX,2000,0.54
+Acura NSX,2001,0.575
+Acura NSX,2002,0.61
+Acura NSX,2003,0.645
+Acura NSX,2004,0.68
+Acura NSX,2005,0.715
+Acura NSX,2006,0.75
+Acura NSX,2007,0.785
+Acura NSX,2008,0.82
+Acura NSX,2009,0.855
+Acura NSX,2010,0.89
+Acura NSX,2011,0.925
+Acura NSX,2012,0.96
+Acura NSX,2013,0.995
+Acura NSX,2014,1.03
+Acura NSX,2015,1.065
+Acura NSX,2016,1.1
+Acura NSX,2017,1.135
+Acura NSX,2018,1.17
+Acura NSX,2019,1.205
+Acura NSX,2020,1.24
+Mazda RX7,1990,0
+Mazda RX7,1991,0
+Mazda RX7,1992,0.2
+Mazda RX7,1993,0.24
+Mazda RX7,1994,0.26
+Mazda RX7,1995,0.24
+Mazda RX7,1996,0.28
+Mazda RX7,1997,0.3
+Mazda RX7,1998,0.42
+Mazda RX7,1999,0.48
+Mazda RX7,2000,0.7
+Mazda RX7,2001,0.622909091
+Mazda RX7,2002,0.679454545
+Mazda RX7,2003,0.736
+Mazda RX7,2004,0.792545455
+Mazda RX7,2005,0.849090909
+Mazda RX7,2006,0.905636364
+Mazda RX7,2007,0.962181818
+Mazda RX7,2008,1.018727273
+Mazda RX7,2009,1.075272727
+Mazda RX7,2010,1.131818182
+Mazda RX7,2011,1.188363636
+Mazda RX7,2012,1.244909091
+Mazda RX7,2013,1.301454545
+Mazda RX7,2014,1.358
+Mazda RX7,2015,1.414545455
+Mazda RX7,2016,1.471090909
+Mazda RX7,2017,1.527636364
+Mazda RX7,2018,1.584181818
+Mazda RX7,2019,1.640727273
+Mazda RX7,2020,1.697272727
+Nissan Skyline R34,1990,0
+Nissan Skyline R34,1991,0
+Nissan Skyline R34,1992,0
+Nissan Skyline R34,1993,0
+Nissan Skyline R34,1994,0
+Nissan Skyline R34,1995,0
+Nissan Skyline R34,1996,0
+Nissan Skyline R34,1997,0
+Nissan Skyline R34,1998,0
+Nissan Skyline R34,1999,1.016666667
+Nissan Skyline R34,2000,1.091666667
+Nissan Skyline R34,2001,1.166666667
+Nissan Skyline R34,2002,1.241666667
+Nissan Skyline R34,2003,1.316666667
+Nissan Skyline R34,2004,1.391666667
+Nissan Skyline R34,2005,1.466666667
+Nissan Skyline R34,2006,1.541666667
+Nissan Skyline R34,2007,1.616666667
+Nissan Skyline R34,2008,1.691666667
+Nissan Skyline R34,2009,1.766666667
+Nissan Skyline R34,2010,1.841666667
+Nissan Skyline R34,2011,1.916666667
+Nissan Skyline R34,2012,1.991666667
+Nissan Skyline R34,2013,2.066666667
+Nissan Skyline R34,2014,2.141666667
+Nissan Skyline R34,2015,2.216666667
+Nissan Skyline R34,2016,2.291666667
+Nissan Skyline R34,2017,2.366666667
+Nissan Skyline R34,2018,2.441666667
+Nissan Skyline R34,2019,2.516666667
+Nissan Skyline R34,2020,2.591666667
+Toyota Supra,1990,0
+Toyota Supra,1991,0
+Toyota Supra,1992,0
+Toyota Supra,1993,0.7
+Toyota Supra,1994,0.8
+Toyota Supra,1995,0.83
+Toyota Supra,1996,0.9
+Toyota Supra,1997,0.97
+Toyota Supra,1998,1.04
+Toyota Supra,1999,1.11
+Toyota Supra,2000,1.18
+Toyota Supra,2001,1.25
+Toyota Supra,2002,1.32
+Toyota Supra,2003,1.39
+Toyota Supra,2004,1.46
+Toyota Supra,2005,1.53
+Toyota Supra,2006,1.6
+Toyota Supra,2007,1.67
+Toyota Supra,2008,1.74
+Toyota Supra,2009,1.81
+Toyota Supra,2010,1.88
+Toyota Supra,2011,1.95
+Toyota Supra,2012,2.02
+Toyota Supra,2013,2.09
+Toyota Supra,2014,2.16
+Toyota Supra,2015,2.23
+Toyota Supra,2016,2.3
+Toyota Supra,2017,2.37
+Toyota Supra,2018,2.44
+Toyota Supra,2019,2.51
+Toyota Supra,2020,2.51
+Nissan Sylvia S15,1990,0
+Nissan Sylvia S15,1991,0
+Nissan Sylvia S15,1992,0
+Nissan Sylvia S15,1993,0
+Nissan Sylvia S15,1994,0
+Nissan Sylvia S15,1995,0
+Nissan Sylvia S15,1996,0
+Nissan Sylvia S15,1997,0
+Nissan Sylvia S15,1998,0
+Nissan Sylvia S15,1999,0.57
+Nissan Sylvia S15,2000,0.583333333
+Nissan Sylvia S15,2001,0.625030303
+Nissan Sylvia S15,2002,0.666727273
+Nissan Sylvia S15,2003,0.708424242
+Nissan Sylvia S15,2004,0.750121212
+Nissan Sylvia S15,2005,0.791818182
+Nissan Sylvia S15,2006,0.833515152
+Nissan Sylvia S15,2007,0.875212121
+Nissan Sylvia S15,2008,0.916909091
+Nissan Sylvia S15,2009,0.958606061
+Nissan Sylvia S15,2010,1.00030303
+Nissan Sylvia S15,2011,1.042
+Nissan Sylvia S15,2012,1.08369697
+Nissan Sylvia S15,2013,1.125393939
+Nissan Sylvia S15,2014,1.167090909
+Nissan Sylvia S15,2015,1.208787879
+Nissan Sylvia S15,2016,1.250484848
+Nissan Sylvia S15,2017,1.292181818
+Nissan Sylvia S15,2018,1.333878788
+Nissan Sylvia S15,2019,1.375575758
+Nissan Sylvia S15,2020,1.417272727

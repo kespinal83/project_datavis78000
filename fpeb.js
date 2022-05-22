@@ -1,26 +1,18 @@
 const urls = {
-    // source: https://observablehq.com/@mbostock/u-s-airports-voronoi
-    // source: https://github.com/topojson/us-atlas
     map: "states-albers-10m.json",
   
-    // source: https://gist.github.com/mbostock/7608400
     airports:
-      "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/airports.csv",
-    //    "https://drive.google.com/file/d/1e_C7w1D_6TUAf0tTdiVYQJbnX33g-2YB/view?usp=sharing",
-  
-    // source: https://gist.github.com/mbostock/7608400
+    //  "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/airports.csv",
+        "https://github.com/kespinal83/project_datavis78000/blob/ea64bdee0ede2d9e3d4f88269499b9328b5b8601/airports.csv",
+
     flights:
       "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/flights.csv"
   };
   
   const svg  = d3.select("svg");
-  
   const width  = parseInt(svg.attr("width"));
   const height = parseInt(svg.attr("height"));
   const hypotenuse = Math.sqrt(width * width + height * height);
-  
-  // must be hard-coded to match our topojson projection
-  // source: https://github.com/topojson/us-atlas
   const projection = d3.geoAlbers().scale(1280).translate([480, 300]);
   
   const scales = {

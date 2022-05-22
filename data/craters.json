@@ -1,0 +1,79 @@
+[
+ {
+   "Crater": "Vredefort",
+   "Area": "South Africa",
+   "BlastRadius": 9,
+   "Latitude": 26.9973,
+   "Longitude": 27.5011
+ },
+ {
+   "Crater": "Chicxulub",
+   "Area": "Mexico",
+   "BlastRadius": 93,
+   "Latitude": 21.4,
+   "Longitude": -89.5167
+ },
+ {
+   "Crater": "Sudbury",
+   "Area": "Canada",
+   "BlastRadius": 81,
+   "Latitude": 46.493919,
+   "Longitude": -80.995415
+ },
+ {
+   "Crater": "Popigai",
+   "Area": "Russia",
+   "BlastRadius": 5,
+   "Latitude": 71.65,
+   "Longitude": 111.1833
+ },
+ {
+   "Crater": "Manicouagan",
+   "Area": "Canada",
+   "BlastRadius": 3,
+   "Latitude": 51.3833,
+   "Longitude": 68.7
+ },
+ {
+   "Crater": "Acraman",
+   "Area": "Australia",
+   "BlastRadius": 56,
+   "Latitude": -32.0167,
+   "Longitude": 135.45
+ },
+ {
+   "Crater": "Morokweng",
+   "Area": "South Africa",
+   "BlastRadius": 44,
+   "Latitude": -26.4667,
+   "Longitude": 23.5333
+ },
+ {
+   "Crater": "Kara",
+   "Area": "Russia",
+   "BlastRadius": 75,
+   "Latitude": 69.1,
+   "Longitude": 64.15
+ },
+ {
+   "Crater": "Beaverhead",
+   "Area": "USA",
+   "BlastRadius": 37,
+   "Latitude": 44.249999,
+   "Longitude": -114
+ },
+ {
+   "Crater": "Barringer",
+   "Area": "USA",
+   "BlastRadius": 37,
+   "Latitude": 35.0278,
+   "Longitude": 111.0222
+ },
+ {
+   "Crater": "Chesapeake Bay",
+   "Area": "USA",
+   "BlastRadius": 53,
+   "Latitude": 37.2833,
+   "Longitude": -76.0167
+ }
+]

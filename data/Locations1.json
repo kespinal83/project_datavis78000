@@ -1,0 +1,410 @@
+[
+ {
+   "location": "San Francisco",
+   "max_pop": 3450000,
+   "longitude": -122.4171688,
+   "latitude": 37.76919563
+ },
+ {
+   "location": "Denver",
+   "max_pop": 2313000,
+   "longitude": -104.9859618,
+   "latitude": 39.74113391
+ },
+ {
+   "location": "Houston",
+   "max_pop": 4459000,
+   "longitude": -95.34192515,
+   "latitude": 29.82192024
+ },
+ {
+   "location": "Miami",
+   "max_pop": 5585000,
+   "longitude": -80.22605194,
+   "latitude": 25.78955656
+ },
+ {
+   "location": "Atlanta",
+   "max_pop": 4506000,
+   "longitude": -84.40189524,
+   "latitude": 33.83195971
+ },
+ {
+   "location": "Chicago",
+   "max_pop": 8990000,
+   "longitude": -87.75200083,
+   "latitude": 41.83193652
+ },
+ {
+   "location": "Caracas",
+   "max_pop": 2985000,
+   "longitude": -66.91898305,
+   "latitude": 10.50294441
+ },
+ {
+   "location": "Kiev",
+   "max_pop": 2709000,
+   "longitude": 30.51468211,
+   "latitude": 50.43531319
+ },
+ {
+   "location": "Dubai",
+   "max_pop": 1379000,
+   "longitude": 55.27802846,
+   "latitude": 25.23194201
+ },
+ {
+   "location": "Tashkent",
+   "max_pop": 2184000,
+   "longitude": 69.29298696,
+   "latitude": 41.31364774
+ },
+ {
+   "location": "Madrid",
+   "max_pop": 5567000,
+   "longitude": -3.685297545,
+   "latitude": 40.40197212
+ },
+ {
+   "location": "Geneva",
+   "max_pop": 1240000,
+   "longitude": 6.140028034,
+   "latitude": 46.21000755
+ },
+ {
+   "location": "Stockholm",
+   "max_pop": 1264000,
+   "longitude": 18.09538887,
+   "latitude": 59.35270581
+ },
+ {
+   "location": "Bangkok",
+   "max_pop": 6704000,
+   "longitude": 100.5146988,
+   "latitude": 13.75194506
+ },
+ {
+   "location": "Lima",
+   "max_pop": 8012000,
+   "longitude": -77.05200795,
+   "latitude": -12.04606682
+ },
+ {
+   "location": "Dakar",
+   "max_pop": 2604000,
+   "longitude": -17.47507599,
+   "latitude": 14.71777758
+ },
+ {
+   "location": "Johannesburg",
+   "max_pop": 3435000,
+   "longitude": 28.02806387,
+   "latitude": -26.16809888
+ },
+ {
+   "location": "Amsterdam",
+   "max_pop": 1031000,
+   "longitude": 4.914694317,
+   "latitude": 52.35191455
+ },
+ {
+   "location": "Casablanca",
+   "max_pop": 3181000,
+   "longitude": -7.618313292,
+   "latitude": 33.60192207
+ },
+ {
+   "location": "Seoul",
+   "max_pop": 9796000,
+   "longitude": 126.9977851,
+   "latitude": 37.56829496
+ },
+ {
+   "location": "Manila",
+   "max_pop": 11100000,
+   "longitude": 120.9802713,
+   "latitude": 14.60610481
+ },
+ {
+   "location": "Monterrey",
+   "max_pop": 3712000,
+   "longitude": -100.3319306,
+   "latitude": 25.671941
+ },
+ {
+   "location": "Auckland",
+   "max_pop": 1245000,
+   "longitude": 174.763035,
+   "latitude": -36.84806714
+ },
+ {
+   "location": "Berlin",
+   "max_pop": 3406000,
+   "longitude": 13.39960276,
+   "latitude": 52.52376452
+ },
+ {
+   "location": "Urumqi",
+   "max_pop": 2151000,
+   "longitude": 87.5730598,
+   "latitude": 43.80695809
+ },
+ {
+   "location": "Chengdu",
+   "max_pop": 4123000,
+   "longitude": 104.0680736,
+   "latitude": 30.67194588
+ },
+ {
+   "location": "Osaka",
+   "max_pop": 11294000,
+   "longitude": 135.458199,
+   "latitude": 34.75198107
+ },
+ {
+   "location": "Kinshasa",
+   "max_pop": 7843000,
+   "longitude": 15.31302602,
+   "latitude": -4.327778243
+ },
+ {
+   "location": "New Delhi",
+   "max_pop": 317797,
+   "longitude": 77.19998002,
+   "latitude": 28.60002301
+ },
+ {
+   "location": "Bangalore",
+   "max_pop": 6787000,
+   "longitude": 77.55806387,
+   "latitude": 12.971941
+ },
+ {
+   "location": "Athens",
+   "max_pop": 3242000,
+   "longitude": 23.73137523,
+   "latitude": 37.98527209
+ },
+ {
+   "location": "Baghdad",
+   "max_pop": 5054000,
+   "longitude": 44.39192291,
+   "latitude": 33.34059436
+ },
+ {
+   "location": "Addis Ababa",
+   "max_pop": 3100000,
+   "longitude": 38.69805858,
+   "latitude": 9.035256221
+ },
+ {
+   "location": "Tehran",
+   "max_pop": 7873000,
+   "longitude": 51.42239818,
+   "latitude": 35.67388863
+ },
+ {
+   "location": "Vancouver",
+   "max_pop": 2313328,
+   "longitude": -123.1235901,
+   "latitude": 49.27536244
+ },
+ {
+   "location": "Toronto",
+   "max_pop": 5213000,
+   "longitude": -79.42196665,
+   "latitude": 43.70192574
+ },
+ {
+   "location": "Buenos Aires",
+   "max_pop": 12795000,
+   "longitude": -58.39947723,
+   "latitude": -34.60055575
+ },
+ {
+   "location": "Kabul",
+   "max_pop": 3277000,
+   "longitude": 69.18131419,
+   "latitude": 34.51863614
+ },
+ {
+   "location": "Vienna",
+   "max_pop": 2400000,
+   "longitude": 16.3646931,
+   "latitude": 48.20196114
+ },
+ {
+   "location": "Melbourne",
+   "max_pop": 4170000,
+   "longitude": 144.9730704,
+   "latitude": -37.81808545
+ },
+ {
+   "location": "Taipei",
+   "max_pop": 6900273,
+   "longitude": 121.5683333,
+   "latitude": 25.03583333
+ },
+ {
+   "location": "Los Angeles",
+   "max_pop": 12500000,
+   "longitude": -118.1819264,
+   "latitude": 33.99192411
+ },
+ {
+   "location": "Washington, D.C.",
+   "max_pop": 4338000,
+   "longitude": -77.01136444,
+   "latitude": 38.90149524
+ },
+ {
+   "location": "New York",
+   "max_pop": 19040000,
+   "longitude": -73.98196279,
+   "latitude": 40.75192492
+ },
+ {
+   "location": "London",
+   "max_pop": 8567000,
+   "longitude": -0.118667702,
+   "latitude": 51.50194059
+ },
+ {
+   "location": "Istanbul",
+   "max_pop": 10061000,
+   "longitude": 29.00805573,
+   "latitude": 41.10694201
+ },
+ {
+   "location": "Riyadh",
+   "max_pop": 4465000,
+   "longitude": 46.7707958,
+   "latitude": 24.64277901
+ },
+ {
+   "location": "Cape Town",
+   "max_pop": 3215000,
+   "longitude": 18.4330423,
+   "latitude": -33.91806511
+ },
+ {
+   "location": "Moscow",
+   "max_pop": 10452000,
+   "longitude": 37.61357697,
+   "latitude": 55.75410998
+ },
+ {
+   "location": "Mexico City",
+   "max_pop": 19028000,
+   "longitude": -99.13293406,
+   "latitude": 19.4443883
+ },
+ {
+   "location": "Lagos",
+   "max_pop": 9466000,
+   "longitude": 3.389585213,
+   "latitude": 6.445207512
+ },
+ {
+   "location": "Rome",
+   "max_pop": 3339000,
+   "longitude": 12.48131256,
+   "latitude": 41.89790149
+ },
+ {
+   "location": "Beijing",
+   "max_pop": 11106000,
+   "longitude": 116.3863398,
+   "latitude": 39.93083809
+ },
+ {
+   "location": "Nairobi",
+   "max_pop": 3010000,
+   "longitude": 36.814711,
+   "latitude": -1.281400883
+ },
+ {
+   "location": "Jakarta",
+   "max_pop": 9125000,
+   "longitude": 106.8274918,
+   "latitude": -6.172471847
+ },
+ {
+   "location": "Bogota",
+   "max_pop": 7772000,
+   "longitude": -74.08528981,
+   "latitude": 4.598369421
+ },
+ {
+   "location": "Cairo",
+   "max_pop": 11893000,
+   "longitude": 31.24802236,
+   "latitude": 30.05190621
+ },
+ {
+   "location": "Shanghai",
+   "max_pop": 14987000,
+   "longitude": 121.4345588,
+   "latitude": 31.21839831
+ },
+ {
+   "location": "Tokyo",
+   "max_pop": 35676000,
+   "longitude": 139.7494616,
+   "latitude": 35.68696276
+ },
+ {
+   "location": "Mumbai",
+   "max_pop": 18978000,
+   "longitude": 72.85504344,
+   "latitude": 19.01893623
+ },
+ {
+   "location": "Paris",
+   "max_pop": 9904000,
+   "longitude": 2.331389467,
+   "latitude": 48.86863879
+ },
+ {
+   "location": "Santiago",
+   "max_pop": 5720000,
+   "longitude": -70.66898671,
+   "latitude": -33.44806796
+ },
+ {
+   "location": "Kolkata",
+   "max_pop": 14787000,
+   "longitude": 88.3227298,
+   "latitude": 22.49691516
+ },
+ {
+   "location": "Rio de Janeiro",
+   "max_pop": 11748000,
+   "longitude": -43.22696665,
+   "latitude": -22.92307732
+ },
+ {
+   "location": "Sao Paulo",
+   "max_pop": 18845000,
+   "longitude": -46.62696584,
+   "latitude": -23.55673373
+ },
+ {
+   "location": "Sydney",
+   "max_pop": 4630000,
+   "longitude": 151.183234,
+   "latitude": -33.91806511
+ },
+ {
+   "location": "Singapore",
+   "max_pop": 5183700,
+   "longitude": 103.8538748,
+   "latitude": 1.294979325
+ },
+ {
+   "location": "Hong Kong",
+   "max_pop": 7206000,
+   "longitude": 114.1830635,
+   "latitude": 22.30692675
+ }
+]
