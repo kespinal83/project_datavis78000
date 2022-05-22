@@ -27,7 +27,7 @@ header, body {
 .spinny-words span{
   position: absolute;
   font-weight: bold;
-  top: 135px;
+  top: 137px;
   opacity: 0;    
   animation: rotateWord 18s linear infinite 0s;
 }
