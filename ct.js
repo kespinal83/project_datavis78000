@@ -5,50 +5,50 @@ var treeData =
       { 
         "name": "Clinton 1st Term",
         "children": [
-          { "name": "208,820" },
-          { "name": "5,159,709" },
+          { "name": "RM: 208,820" },
+          { "name": "RT: 5,159,709" },
         ]
       },
       { 
         "name": "Clinton 2nd Term",
         "children": [
-          { "name": "660,826" },
-          { "name": "6,261,550" },
+          { "name": "RM: 660,826" },
+          { "name": "RT: 6,261,550" },
         ]
       },
       { 
         "name": "Bush 1st Term",
         "children": [
-          { "name": "805,957" },
-          { "name": "4,473,357" },        
+          { "name": "RM: 805,957" },
+          { "name": "RT: 4,473,357" },        
         ]
       },
       { 
         "name": "Bush 2nd Term",
         "children": [
-          { "name": "1,206,582" },
-          { "name": "3,842,954" },
+          { "name": "RM: 1,206,582" },
+          { "name": "RT: 3,842,954" },
         ]
       },
       { 
         "name": "Obama 1st Term",
         "children": [
-          { "name": "1,568,188" },
-          { "name": "1,607,517" },
+          { "name": "RM: 1,568,188" },
+          { "name": "RT: 1,607,517" },
         ]
       },
       { 
         "name": "Obama 2nd Term",
         "children": [
-          { "name": "1,494,015" },
-          { "name": "578,928" },
+          { "name": "RM: 1,494,015" },
+          { "name": "RT: 578,928" },
         ]
       },
       { 
         "name": "Trump 1st Term",
         "children": [
-          { "name": "1,201,945" },
-          { "name": "599,080" },
+          { "name": "RM: 1,201,945" },
+          { "name": "RT: 599,080" },
         ]
       },
     ]
