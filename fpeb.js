@@ -2,11 +2,13 @@ const urls = {
     map: "states-albers-10m.json",
   
     airports:
-      "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/airports.csv",
+    //  "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/airports.csv",
     //    "https://github.com/kespinal83/project_datavis78000/raw/ea64bdee0ede2d9e3d4f88269499b9328b5b8601/airports.csv",
+      "https://raw.githubusercontent.com/kespinal83/project_datavis78000/main/airports.csv",
 
     flights:
-      "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/flights.csv"
+    //  "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/flights.csv"
+      "https://raw.githubusercontent.com/kespinal83/project_datavis78000/main/flights.csv",
   };
   
   const svg  = d3.select("svg");
