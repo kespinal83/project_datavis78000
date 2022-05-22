@@ -12,7 +12,8 @@ const urls = {
   const width  = parseInt(svg.attr("width"));
   const height = parseInt(svg.attr("height"));
   const hypotenuse = Math.sqrt(width * width + height * height);
-  const projection = d3.geoAlbers().scale(1580).translate([480, 300]);
+  //const projection = d3.geoAlbers().scale(1480).translate([480, 300]);
+  const projection = d3.geoAlbers().scale(1440).translate([480, 300]);
   
   const scales = {
     // used to scale airport bubbles
