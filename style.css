@@ -251,9 +251,9 @@ g#voronoi {
 }
 
 .labels {
-  font: 8px sans-serif;
+  font: 2px sans-serif;
   fill: black;
-  opacity: .5;
+  opacity: 1;
 }
 
 .noclicks {
